@@ -8,4 +8,6 @@ dependencies = [
     "discord-py>=2.5.2",
     "flask>=3.1.0",
     "python-dotenv>=1.1.0",
+    "requests>=2.32.3",
+    "uva-questions>=1.0",
 ]
